@@ -19,4 +19,9 @@ class ServerInstance {
         });
     }
 }
+<<<<<<< HEAD
 module.exports = ServerInstance;
+=======
+
+module.export = ServerInstance; //exporte la classe sur le serveur
+>>>>>>> 43176706dd3ac8bfb39538c02755ebf57dbd1f1b
