@@ -7,4 +7,4 @@ class ServerInstance{
     }
 }
 
-module.export = ServerInstance;
+module.export = ServerInstance; //exporte la classe sur le serveur
