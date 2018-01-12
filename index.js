@@ -1,2 +1,3 @@
-const server = require('./src/server/http');
-server.init()
+const Server = require('./src/server/http');
+let instance = new Server();
+instance.init();
